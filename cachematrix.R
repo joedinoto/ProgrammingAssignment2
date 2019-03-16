@@ -70,6 +70,8 @@ cacheSolve <- function(x, ...) {
 }
 
 ## REFERENCES
+## ESSENTIAL READING (without this I would have never been able to finish this assignment.)
+## https://github.com/lgreski/datasciencectacontent/blob/master/markdown/rprog-breakingDownMakeVector.md
 
 ## Useful links 
 ## https://www.statmethods.net/advstats/matrix.html
